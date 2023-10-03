@@ -1,0 +1,29 @@
+body{
+    background-color:grey  ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#box{
+    background-color: blue;
+width:300px;
+height:100px;
+border: 2px solid yellow;
+margin: auto;
+border-radius: 150px;
+}
+.box__text{
+    padding: auto;
+    
+}
+#circle{
+    background-color: blue;
+width:300px;
+height:300px;
+border: 2px solid yellow;
+margin: auto;
+border-radius: 300px;
+}
+.circle__text{
+    padding: 100px;
+    
+}
